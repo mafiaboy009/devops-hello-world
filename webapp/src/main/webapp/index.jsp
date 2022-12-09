@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou Dinga Mahershi!!, Happy Learning </h1>
+   <h1> Thank you Dinga Mahershi, Happy Learning !!! </h1>
 
 </form>
